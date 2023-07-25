@@ -44,3 +44,6 @@ There is a ready-to-use model in this repo. Run the command above to see the res
 
 ## ACKNOWLEDGEMENT
 The code is mainly based on [drl-ddpg-lunar-lander](https://github.com/leonjovanovic/drl-ddpg-lunar-lander). Thanks the aurther for the excellent work.
+
+## AND
+Feel free to raise an issue if you encounter any problem :).
